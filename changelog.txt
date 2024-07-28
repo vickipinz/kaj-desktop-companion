@@ -1,0 +1,27 @@
+## Changelog
+
+v0.2.1 (February 14, 2023)
+- change update url from kaj.gay to kaj.unluckywind.net
+
+v0.2 (June 23, 2022)
+- added biting, belly rubs, and poking, all with sound effects
+- added missing appearances for four-legged skin
+- added some new dialog
+- now reuploads after updating
+- reorganized some files
+- fixed bugs
+- removed herobrine
+
+v0.1.1 (June 22, 2022)
+- initial release
+- add balloon by FoxTypewriter
+- add four-legged skin
+- rename .dic files to .c
+- fix update url
+- include standalone version
+
+v0.1 (June 21, 2022)
+- test release
+- added the default shell (chibi)
+- remembers ur name and birthday
+- loves u very much

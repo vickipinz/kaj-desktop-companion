@@ -1,0 +1,13 @@
+﻿charset,UTF-8
+name,Kaj Strife
+type,ghost
+sakura.name,Kaj Strife
+kero.name,Nobody
+craftman,Kajsoft Inc.
+craftmanurl,http://kaj.unluckywind.net/widget
+homeurl,http://kaj.unluckywind.net/etc/ukagaka
+readme,readme.md
+icon,kaj.ico
+balloon,catandrabbitpink
+sstp.allowunspecifiedsend,0
+shiori,yaya.dll

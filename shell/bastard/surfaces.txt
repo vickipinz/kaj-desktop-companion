@@ -1,0 +1,32 @@
+// Surfaces - Kaj (four-legged)
+
+surface0
+{
+	collision0,59,89,83,115,Eye
+	collision1,43,195,82,221,Paw
+	collision2,23,51,74,91,Head
+	collision3,149,156,162,165,Privates
+	collision4,69,132,148,185,Body
+	collision5,46,118,68,132,Mouth
+
+	element0,overlay,surface0.png,0,0
+}
+
+sakura.cursor
+{
+	mouseup0,Head,system:hand
+	mousedown0,Head,system:grip
+	mouseup1,Paw,system:hand
+	mousedown1,Paw,system:hand
+	mouseup2,Body,system:hand
+	mousedown2,Body,system:grip
+}
+
+sakura.tooltips 
+{
+	Paw,High five!
+	Body,Double-click to open Dog Menu, right click to open System Menu!
+	Eye,Poke her eye!
+	Head,Move your mouse to pet!
+	Mouth,Put your finger in its mouth!
+}

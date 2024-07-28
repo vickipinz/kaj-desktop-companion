@@ -1,0 +1,24 @@
+﻿// Character set
+
+charset, UTF-8
+charset.dic, UTF-8
+charset.output, UTF-8
+charset.file, UTF-8
+charset.save, UTF-8
+charset.extension, UTF-8
+
+// Dictionary files
+
+include, system_config.txt		
+dic, string.c
+dic, time.c
+dic, dialog.c
+dic, boot.c
+dic, mouse.c
+dic, etc.c
+dic, menu.c
+dic, word.c
+dic, name.c
+dic, anchor.c
+
+messagetxt,system/messagetxt/english.txt

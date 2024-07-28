@@ -1,0 +1,32 @@
+// Surfaces - Kaj (chibi)
+
+surface0
+{
+	collision0,95,66,132,104,Eye
+	collision1,30,119,62,149,Paw
+	collision2,41,37,101,89,Head
+	collision3,93,205,110,218,Privates
+	collision4,71,128,178,218,Body
+	collision5,85,110,114,125,Mouth
+
+	element0,overlay,surface0.png,0,0
+}
+
+sakura.cursor
+{
+	mouseup0,Head,system:hand
+	mousedown0,Head,system:grip
+	mouseup1,Paw,system:hand
+	mousedown1,Paw,system:hand
+	mouseup2,Body,system:hand
+	mousedown2,Body,system:grip
+}
+
+sakura.tooltips 
+{
+	Paw,High five!
+	Body,Double-click to open Dog Menu, right click to open System Menu!
+	Eye,Poke her eye!
+	Head,Move your mouse to pet!
+	Mouth,Put your finger in its mouth!
+}

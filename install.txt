@@ -1,0 +1,5 @@
+﻿charset,UTF-8
+type,ghost
+name,Kaj Strife
+directory,kajstrife
+balloon.directory,NekoUsa-pink-
